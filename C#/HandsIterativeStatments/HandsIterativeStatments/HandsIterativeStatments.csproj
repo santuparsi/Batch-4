@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>HandsOnConditionalStatements.Demo3</StartupObject>
+    <StartupObject>HandsIterativeStatments.Demo4</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\bin\Debug\netcoreapp3.1\HandsIterativeStatments.exe
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\bin\Debug\netcoreapp3.1\HandsIterativeStatments.deps.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\bin\Debug\netcoreapp3.1\HandsIterativeStatments.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\bin\Debug\netcoreapp3.1\HandsIterativeStatments.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\bin\Debug\netcoreapp3.1\HandsIterativeStatments.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\bin\Debug\netcoreapp3.1\HandsIterativeStatments.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\obj\Debug\netcoreapp3.1\HandsIterativeStatments.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\obj\Debug\netcoreapp3.1\HandsIterativeStatments.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\obj\Debug\netcoreapp3.1\HandsIterativeStatments.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\obj\Debug\netcoreapp3.1\HandsIterativeStatments.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\obj\Debug\netcoreapp3.1\HandsIterativeStatments.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\obj\Debug\netcoreapp3.1\HandsIterativeStatments.genruntimeconfig.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsIterativeStatments\HandsIterativeStatments\obj\Debug\netcoreapp3.1\HandsIterativeStatments.csprojAssemblyReference.cache

@@ -1,0 +1,39 @@
+&&
+T T--------T
+T F--------F
+F----------F(not checking second condition)
+
+||
+T----------T
+F  T-------T
+F  F-------F
+
+swich(expression)
+{
+case value:
+statements
+break;
+case valeu1:
+statements
+break
+default:
+statements
+break;
+}
+
+iterative statements
+while,do-while for,foreach
+while(condition)
+{
+//statements
+}
+
+do
+{
+//statements
+}while(condtion)
+
+for(initialization;condition;incre/decre)
+{
+//statements
+}
