@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.exe
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.deps.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.csprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.genruntimeconfig.cache

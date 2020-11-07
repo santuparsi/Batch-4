@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\bin\Debug\netcoreapp3.1\HandsOnConditionalStatements.exe
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\bin\Debug\netcoreapp3.1\HandsOnConditionalStatements.deps.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\bin\Debug\netcoreapp3.1\HandsOnConditionalStatements.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\bin\Debug\netcoreapp3.1\HandsOnConditionalStatements.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\bin\Debug\netcoreapp3.1\HandsOnConditionalStatements.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\bin\Debug\netcoreapp3.1\HandsOnConditionalStatements.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\obj\Debug\netcoreapp3.1\HandsOnConditionalStatements.csprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\obj\Debug\netcoreapp3.1\HandsOnConditionalStatements.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\obj\Debug\netcoreapp3.1\HandsOnConditionalStatements.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\obj\Debug\netcoreapp3.1\HandsOnConditionalStatements.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\obj\Debug\netcoreapp3.1\HandsOnConditionalStatements.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\obj\Debug\netcoreapp3.1\HandsOnConditionalStatements.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnConditionalStatements\HandsOnConditionalStatements\obj\Debug\netcoreapp3.1\HandsOnConditionalStatements.genruntimeconfig.cache

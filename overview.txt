@@ -1,0 +1,45 @@
+Internet Applications(Browser)
+Desktop Applications(Notepad,Calculator,Media Player,Browsers,MSOffice)
+Mobile Applications(Mobiles)
+
+Java & .Net
+
+.Net
+----
+.Net is a Platform or Framwork
+.Net Introduced by Microsoft(2000)
+Applications Developed using .Net Framework
+-----------------------------------------
+Browser Applications
+Desktop Applications
+Mobile Applications
+Service Applications
+.Net Framework Components
+------------------------
+1.Languages(C#.net,Vb.net,VC++)
+2.Technologies
+Asp.net or Asp.net MVC(Webbased Applications)
+Winforms or WPF(Desktop applications)
+WCF Or WEB API(Service Applications)
+
+Versions of .net fremework
+--------------------------
+1.0(2000)
+1.1,2.0,3.0,3.5,4.0,4.5,4.6,4.7.2(current),5.0(next month)
+
+Editor
+-----
+VisualStudio-2019
+
+Database
+-------
+SQLSERVER 2019
+
+Webserver
+--------
+IIS(Internet Information Service) and Tomcat
+
+SDKs in .Net platform
+-----------------------
+.Net Framework(Windows,IIS)
+.Net Core(Windows,Linux,Mac,IIS or Tomcat)

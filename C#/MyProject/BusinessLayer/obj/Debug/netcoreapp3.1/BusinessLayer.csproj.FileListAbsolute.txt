@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.exe
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\MyProject\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.genruntimeconfig.cache

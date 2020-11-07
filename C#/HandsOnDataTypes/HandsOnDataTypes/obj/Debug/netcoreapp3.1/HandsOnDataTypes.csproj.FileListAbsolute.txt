@@ -1,0 +1,12 @@
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\bin\Debug\netcoreapp3.1\HandsOnDataTypes.exe
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\bin\Debug\netcoreapp3.1\HandsOnDataTypes.deps.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\bin\Debug\netcoreapp3.1\HandsOnDataTypes.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\bin\Debug\netcoreapp3.1\HandsOnDataTypes.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\bin\Debug\netcoreapp3.1\HandsOnDataTypes.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\bin\Debug\netcoreapp3.1\HandsOnDataTypes.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\netcoreapp3.1\HandsOnDataTypes.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\netcoreapp3.1\HandsOnDataTypes.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\netcoreapp3.1\HandsOnDataTypes.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\netcoreapp3.1\HandsOnDataTypes.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\netcoreapp3.1\HandsOnDataTypes.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\netcoreapp3.1\HandsOnDataTypes.genruntimeconfig.cache

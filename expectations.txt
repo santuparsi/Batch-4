@@ -1,0 +1,15 @@
+UI
+HTML
+CSS
+Bootstrap
+Javascript
+JQuery
+Angular
+Middleware(.Net Core)
+C#
+Asp.net MVC
+Web API
+DataIntegration
+Enitity Framework(.Net Core)
+Database
+SQLSERVER
