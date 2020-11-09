@@ -1,0 +1,7 @@
+Array Types
+1.Single Dimensional
+2.Two Dimensional
+3.Jagged Array
+It is arrays of array
+In jagged array element of the array it self is any array
+int [][] array_name=new int[size][]
