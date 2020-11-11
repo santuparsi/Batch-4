@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>HandsOnArrays.Demo7</StartupObject>
+    <StartupObject>HandsOnCSharp.Strings.Demo4</StartupObject>
   </PropertyGroup>
 
 </Project>

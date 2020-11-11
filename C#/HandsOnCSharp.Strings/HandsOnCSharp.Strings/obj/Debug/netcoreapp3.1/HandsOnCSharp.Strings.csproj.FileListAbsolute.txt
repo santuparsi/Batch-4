@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\obj\Debug\netcoreapp3.1\HandsOnCSharp.Strings.csprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\obj\Debug\netcoreapp3.1\HandsOnCSharp.Strings.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\obj\Debug\netcoreapp3.1\HandsOnCSharp.Strings.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\obj\Debug\netcoreapp3.1\HandsOnCSharp.Strings.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\bin\Debug\netcoreapp3.1\HandsOnCSharp.Strings.exe
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\bin\Debug\netcoreapp3.1\HandsOnCSharp.Strings.deps.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\bin\Debug\netcoreapp3.1\HandsOnCSharp.Strings.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\bin\Debug\netcoreapp3.1\HandsOnCSharp.Strings.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\bin\Debug\netcoreapp3.1\HandsOnCSharp.Strings.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\bin\Debug\netcoreapp3.1\HandsOnCSharp.Strings.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\obj\Debug\netcoreapp3.1\HandsOnCSharp.Strings.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\obj\Debug\netcoreapp3.1\HandsOnCSharp.Strings.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnCSharp.Strings\HandsOnCSharp.Strings\obj\Debug\netcoreapp3.1\HandsOnCSharp.Strings.genruntimeconfig.cache
