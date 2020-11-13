@@ -1,0 +1,48 @@
+Data-Members
+------------
+instance
+static
+constant: assign value at compile time and access using class-name
+read-only: assign value at compile time and at runtime using constructor.access using object of a class.
+
+Properties
+---------
+declared as class-members
+using to set and get values to private variable at runtime.
+using to validate input data as well.
+
+public type prop_name
+{
+get{} //get private-variable value
+set{} //set value to private-variable
+}
+
+Inheritance
+----------
+It allows us to use one class members in another class
+Class A
+{
+'members
+}
+Class B:A
+{
+'access all public and protected members
+}
+Class C:B
+{
+}
+
+
+simple
+multilevel
+multiple(not suppoted)
+
+Class X{}
+Class Y{}
+Class X1:X{}
+Class Y1:X{}
+Class Z:X,Y
+{
+}
+
+

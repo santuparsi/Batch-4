@@ -1,0 +1,63 @@
+Class:
+A Class is a Blueprint or Template.
+It is a Collectionn of Class-Members
+//class-members
+data-members(variables)
+methods
+constructors
+properties
+indexers
+
+class class_name
+{
+//data-members
+}
+
+//object
+
+class_name obj_name=new class_name()
+obj_name.class_memeber
+
+//Access specifiers
+------------------
+public-full accesss
+private-no access(access only wiht in the class)
+internal(access with in the assembly only)
+protected(limited access use in inheritance)
+protected-internal(use in inhertiance)
+
+Varialbes
+--------
+1.Local variables(decared inside method)
+2.Class variables(declared inside class)
+	a.instance variable(default)
+	b.static variable
+
+ex: public int id(instance)
+public static int discount(static)
+static variables are accessing using class-name
+static data is common to all the objects of class
+
+Constructors
+-----------
+are using to initialize class-variable and to intialize class object
+defined inside class
+invoke automatically while creating object
+are not rerun any value
+public Class_name()
+{
+'statements
+}
+1.default
+2.parametarized 
+3.copy
+
+Methods
+-----
+collection of executalbe statements
+return_type method_name(param_list)
+{
+'statements
+}
+//invocation
+method_name();

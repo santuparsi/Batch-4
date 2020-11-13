@@ -1,0 +1,13 @@
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\bin\Debug\netcoreapp3.1\Day5.HandsOnConstructors.exe
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\bin\Debug\netcoreapp3.1\Day5.HandsOnConstructors.deps.json
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\bin\Debug\netcoreapp3.1\Day5.HandsOnConstructors.runtimeconfig.json
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\bin\Debug\netcoreapp3.1\Day5.HandsOnConstructors.runtimeconfig.dev.json
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\bin\Debug\netcoreapp3.1\Day5.HandsOnConstructors.dll
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\bin\Debug\netcoreapp3.1\Day5.HandsOnConstructors.pdb
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\obj\Debug\netcoreapp3.1\Day5.HandsOnConstructors.csprojAssemblyReference.cache
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\obj\Debug\netcoreapp3.1\Day5.HandsOnConstructors.AssemblyInfoInputs.cache
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\obj\Debug\netcoreapp3.1\Day5.HandsOnConstructors.AssemblyInfo.cs
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\obj\Debug\netcoreapp3.1\Day5.HandsOnConstructors.csproj.CoreCompileInputs.cache
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\obj\Debug\netcoreapp3.1\Day5.HandsOnConstructors.dll
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\obj\Debug\netcoreapp3.1\Day5.HandsOnConstructors.pdb
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnConstructors\obj\Debug\netcoreapp3.1\Day5.HandsOnConstructors.genruntimeconfig.cache

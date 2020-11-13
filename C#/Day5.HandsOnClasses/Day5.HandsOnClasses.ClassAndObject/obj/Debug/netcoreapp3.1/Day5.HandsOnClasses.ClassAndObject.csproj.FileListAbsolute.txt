@@ -1,0 +1,13 @@
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.exe
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.deps.json
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.runtimeconfig.json
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.runtimeconfig.dev.json
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.dll
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.pdb
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.csprojAssemblyReference.cache
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.AssemblyInfoInputs.cache
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.AssemblyInfo.cs
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.dll
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.pdb
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.ClassAndObject\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.ClassAndObject.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.exe
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.deps.json
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.runtimeconfig.json
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.runtimeconfig.dev.json
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.dll
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\bin\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.pdb
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.csprojAssemblyReference.cache
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.AssemblyInfoInputs.cache
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.AssemblyInfo.cs
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.csproj.CoreCompileInputs.cache
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.dll
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.pdb
+C:\Users\SANTHOSH\source\repos\Day5.HandsOnClasses\Day5.HandsOnClasses.Methods\obj\Debug\netcoreapp3.1\Day5.HandsOnClasses.Methods.genruntimeconfig.cache
