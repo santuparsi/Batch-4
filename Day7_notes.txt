@@ -1,0 +1,17 @@
+Types of Classes
+---------------
+Concrete Classes
+Static Classes
+not inheritad and not instantiated.
+Abstract Classes
+It is a combination of abstract and non-abstract methods
+Can inherited,but not instantiated
+Can declare variables and construnctors
+Sealed Classes
+prevent inheritance and support instantiaion
+Partial Classes
+Allow multiple classes with same name.
+Generic Classes
+It is a consept applied for classes,interfaces and methods
+Generic is a concept of defining the members with out specifing it's type.
+And type is declared while creating the object.

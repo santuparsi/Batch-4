@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7.CharpHandsOn.ClassTypes", "Day7.CharpHandsOn.ClassTypes\Day7.CharpHandsOn.ClassTypes.csproj", "{2647EFAC-E052-4449-85D4-FAEAE76DEEF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7.CharpHandsOn.Interfaces", "Day7.CharpHandsOn.Interfaces\Day7.CharpHandsOn.Interfaces.csproj", "{9853090D-7DD9-410E-BB76-EAC0546A4381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2647EFAC-E052-4449-85D4-FAEAE76DEEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2647EFAC-E052-4449-85D4-FAEAE76DEEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2647EFAC-E052-4449-85D4-FAEAE76DEEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2647EFAC-E052-4449-85D4-FAEAE76DEEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9853090D-7DD9-410E-BB76-EAC0546A4381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9853090D-7DD9-410E-BB76-EAC0546A4381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9853090D-7DD9-410E-BB76-EAC0546A4381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9853090D-7DD9-410E-BB76-EAC0546A4381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3475FC3-A4DC-43BE-BAC2-F8CE54AFE76D}
+	EndGlobalSection
+EndGlobal
