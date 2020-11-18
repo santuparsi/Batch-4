@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Day7.HandsOnCollections.NonGeneric.Demo3</StartupObject>
+  </PropertyGroup>
+
+</Project>

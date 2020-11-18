@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\bin\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.exe
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\bin\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.deps.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\bin\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\bin\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\bin\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\bin\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\obj\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.csprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\obj\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\obj\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\obj\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\obj\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\obj\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day8.HandsOnCSharp\Day8.HandsOnCSharp.Polymarphisam\obj\Debug\netcoreapp3.1\Day8.HandsOnCSharp.Polymarphisam.genruntimeconfig.cache

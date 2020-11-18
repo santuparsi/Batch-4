@@ -1,0 +1,30 @@
+1.compile-time polymorphism
+ex:method overloading
+object instance is declared at compile-time
+2.run-time polymorphism
+ex: method overriding
+object instance is declared at run-time
+
+Collections
+-----------
+A Collection is a group of objects or values
+Collection are use to data storage and data retrival and data remove with in app
+Collections are dynamic in size.
+Collections are two-types
+1.Non-Generic Collections
+Stores any data in the object form
+System.Collections
+
+Arraylist-(Index-based)
+HashTable-(Key-value)
+SortedList-(Key-value)
+Stack-(LIFO)
+Queue-(FIFO)
+2.Generic Collections
+Stores Data of same type
+System.Collections.Generic
+List<T>---------------ArrayList
+Dictionary<K,V>-------HashTable
+SortedList<K,V>-------SrotedList
+Stack<T>--------------Stack
+Queue<T>--------------Queue

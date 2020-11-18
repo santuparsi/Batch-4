@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8.HandsOnCSharp.Polymarphisam", "Day8.HandsOnCSharp.Polymarphisam\Day8.HandsOnCSharp.Polymarphisam.csproj", "{93CB284D-841C-48C6-944D-BD3BCA9C105A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CB284D-841C-48C6-944D-BD3BCA9C105A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CB284D-841C-48C6-944D-BD3BCA9C105A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CB284D-841C-48C6-944D-BD3BCA9C105A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CB284D-841C-48C6-944D-BD3BCA9C105A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE94D4AC-ABEF-4291-8BAF-A3E9B33F8441}
+	EndGlobalSection
+EndGlobal

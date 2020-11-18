@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\obj\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.csprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\obj\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\obj\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\obj\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\bin\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.exe
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\bin\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.deps.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\bin\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\bin\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\bin\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\bin\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\obj\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\obj\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day7.HandsOnCollections\Day7.HandsOnCollections.NonGeneric\obj\Debug\netcoreapp3.1\Day7.HandsOnCollections.NonGeneric.genruntimeconfig.cache
