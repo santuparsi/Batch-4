@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\obj\Debug\netcoreapp3.1\Day10.HandsOnDelegates.csprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\obj\Debug\netcoreapp3.1\Day10.HandsOnDelegates.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\obj\Debug\netcoreapp3.1\Day10.HandsOnDelegates.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\obj\Debug\netcoreapp3.1\Day10.HandsOnDelegates.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\obj\Debug\netcoreapp3.1\Day10.HandsOnDelegates.genruntimeconfig.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\bin\Debug\netcoreapp3.1\s.exe
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\bin\Debug\netcoreapp3.1\s.deps.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\bin\Debug\netcoreapp3.1\s.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\bin\Debug\netcoreapp3.1\s.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\bin\Debug\netcoreapp3.1\s.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\bin\Debug\netcoreapp3.1\s.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\obj\Debug\netcoreapp3.1\s.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\Day10\Day10.HandsOnDelegates\obj\Debug\netcoreapp3.1\s.pdb

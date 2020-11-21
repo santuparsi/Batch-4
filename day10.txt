@@ -1,0 +1,23 @@
+Delegates:
+----------
+delegates are similar to function pointers in c++
+delegate are type safe and they are reference type
+delegate is an object which refer one more methods
+delegates are invoke methods at runtime
+why delegates?
+1.delegates we can use in call back functions(calling the fun by passing other fun as parameter)
+
+SetInterval(()=>{})
+function f()
+{
+}
+SetInterval(f)
+public int Add(int a,int b){}
+Add(2,3)
+2.delegates are using in multi-threading
+Thread t=new Thread(Add);
+t.start();
+3.delegates are using in event-handling
+4.delegates are use in Linq expressions
+db.Employees.SingleOrDefault(e=>e.Eid=1000)
+delegates refer methods which are having same singnature of delegates
