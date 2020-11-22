@@ -1,0 +1,13 @@
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\obj\Debug\netcoreapp3.1\Day6.DataMembers.csprojAssemblyReference.cache
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\obj\Debug\netcoreapp3.1\Day6.DataMembers.AssemblyInfoInputs.cache
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\obj\Debug\netcoreapp3.1\Day6.DataMembers.AssemblyInfo.cs
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\obj\Debug\netcoreapp3.1\Day6.DataMembers.csproj.CoreCompileInputs.cache
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\bin\Debug\netcoreapp3.1\Day6.DataMembers.exe
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\bin\Debug\netcoreapp3.1\Day6.DataMembers.deps.json
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\bin\Debug\netcoreapp3.1\Day6.DataMembers.runtimeconfig.json
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\bin\Debug\netcoreapp3.1\Day6.DataMembers.runtimeconfig.dev.json
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\bin\Debug\netcoreapp3.1\Day6.DataMembers.dll
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\bin\Debug\netcoreapp3.1\Day6.DataMembers.pdb
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\obj\Debug\netcoreapp3.1\Day6.DataMembers.dll
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\obj\Debug\netcoreapp3.1\Day6.DataMembers.pdb
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.DataMembers\obj\Debug\netcoreapp3.1\Day6.DataMembers.genruntimeconfig.cache

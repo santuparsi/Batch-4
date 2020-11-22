@@ -1,0 +1,12 @@
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\obj\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.AssemblyInfoInputs.cache
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\obj\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.AssemblyInfo.cs
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\obj\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.csproj.CoreCompileInputs.cache
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\bin\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.exe
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\bin\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.deps.json
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\bin\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.runtimeconfig.json
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\bin\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.runtimeconfig.dev.json
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\bin\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.dll
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\bin\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.pdb
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\obj\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.dll
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\obj\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.pdb
+C:\Users\SANTHOSH\source\repos\Day6.CharpHandsOn\Day6.CharpHandsOn.Properties\obj\Debug\netcoreapp3.1\Day6.CharpHandsOn.Properties.genruntimeconfig.cache
