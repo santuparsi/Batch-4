@@ -1,74 +1,83 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title></title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/style.css" rel="stylesheet">
-    </head>
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
+    <script type="text/javascript">
+        function f1() {
+            var obj = document.getElementById("s1")
+            //alert(obj.value)
+            obj.value = Number(obj.value) + 1;
+        }
+    </script>
+</head>
     <body>
-        <form action="">
-    <table>
-        <tr>
-            <td>Color</td>
-            <td><input type="color" name="" id=""></td>
-        </tr>
-        <tr>
-            <td>Date</td>
-            <td><input type="date" name="" id=""></td>
-        </tr>
-        <tr>
-            <td>Number</td>
-            <td>
-                <input type="number" name="" id="">
-            </td>
-        </tr>
-        <tr>
-            <td>Age</td>
-            <td>
-                <input type="number" name="" id="txtnum" max="35" min="12">
-            </td>
-        </tr>
-        <tr>
-            <td>Email</td>
-            <td>
-                <input type="email" name="" id="">
-            </td>
-        </tr>
-        <tr>
-            <td>Slider</td>
-            <td><input type="range" name="" id="" max=10 min=1 value="2"></td>
-        </tr>
-        
-        <tr>
-            <td>Search</td>
-            <td>
-                <input type="search" name="" id="">
-            </td>
-        </tr>
-        <tr>
-           <td>URL</td>
-           <td><input type="url" name="" id=""></td>
-        </tr>
-        
-             <tr>
-                 <td>Week</td>
-                 <td>
-                     <input type="week" name="" id="">
-                 </td>
-             </tr>
-             <tr>
-                 <td>Month</td>
-                 <td>
-                     <input type="month" name="" id="">
-                 </td>
-             </tr>
-             <tr>
+        <form>
+            <table>
+                <tr>
+                    <td>Color</td>
+                    <td><input type="color" name="" id="" onblur="f1()"></td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td><input type="date" name="" id="" onblur="f1()"></td>
+                </tr>
+                <tr>
+                    <td>Number</td>
+                    <td>
+                        <input type="number" name="" id="" onblur="f1()">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Age</td>
+                    <td>
+                        <input type="number" name="" id="txtnum" max="35" min="12" step="1">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td>
+                        <input type="email" name="" id="">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Slider</td>
+                    <td><input type="range" name="" id="s1" max=10 min=1 value="2" step="1"></td>
+                </tr>
+
+                <tr>
+                    <td>Search</td>
+                    <td>
+                        <input type="search" name="" id="">
+                    </td>
+                </tr>
+                <tr>
+                    <td>URL</td>
+                    <td><input type="url" name="" id=""></td>
+                </tr>
+
+                <tr>
+                    <td>Week</td>
+                    <td>
+                        <input type="week" name="" id="">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Month</td>
+                    <td>
+                        <input type="month" name="" id="">
+                    </td>
+                </tr>
+                <tr>
                     <td colspan="2">
                         <input type="submit" value="Submit">
+                        <input type="button" id="b1" onclick="f1()" value="ClickMe">
                     </td>
-                 </tr>
-    </table>
-</form>
+                </tr>
+            </table>
+        </form>
+       
     </body>
 </html>
