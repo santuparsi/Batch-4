@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function Validate()
+        {
+let un=document.getElementById('t1').value;
+let pwd=document.getElementById("t2").value;
+if(un=="")
+{
+    document.getElementById("s1").innerHTML="Enter Username";
+    return false;
+}
+else if(pwd=="")
+{
+    document.getElementById("s1").innerHTML="Enter Password";
+    return false;
+}
+else
+{
+    return true;
+}
+        }
+    </script>
+</head>
+<body>
+    <form action="http://www.google.co.in" onsubmit="return Validate()">
+    <table>
+        <tr>
+            <td>Username</td>
+            <td><input type="text" id='t1'></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input type="password" id='t2'></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <input type="submit" value="LogIn">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <span id="s1" style="color: red;"></span>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function Greet()
+        {
+            let un=document.getElementById("t1").value;
+            //alert("Welcome "+un);
+            document.getElementById("s1").innerHTML=un;
+        }
+    </script>
+</head>
+<body>
+    <div>
+        <span>Enter YOur Name:</span>
+        <input type="text" id="t1" >
+        <button onclick="Greet()">Greet</button><br>
+        <span id="s1" style="color: rebeccapurple;"></span>
+    </div>
+</body>
+</html>
