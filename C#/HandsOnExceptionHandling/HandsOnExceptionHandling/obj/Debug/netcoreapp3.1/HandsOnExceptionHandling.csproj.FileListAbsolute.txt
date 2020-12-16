@@ -1,0 +1,13 @@
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\netcoreapp3.1\HandsOnExceptionHandling.exe
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\netcoreapp3.1\HandsOnExceptionHandling.deps.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\netcoreapp3.1\HandsOnExceptionHandling.runtimeconfig.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\netcoreapp3.1\HandsOnExceptionHandling.runtimeconfig.dev.json
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\netcoreapp3.1\HandsOnExceptionHandling.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\netcoreapp3.1\HandsOnExceptionHandling.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\netcoreapp3.1\HandsOnExceptionHandling.csprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\netcoreapp3.1\HandsOnExceptionHandling.AssemblyInfoInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\netcoreapp3.1\HandsOnExceptionHandling.AssemblyInfo.cs
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\netcoreapp3.1\HandsOnExceptionHandling.csproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\netcoreapp3.1\HandsOnExceptionHandling.dll
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\netcoreapp3.1\HandsOnExceptionHandling.pdb
+D:\OnlineBatch\Dotnet-Batch-4\C#\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\netcoreapp3.1\HandsOnExceptionHandling.genruntimeconfig.cache
