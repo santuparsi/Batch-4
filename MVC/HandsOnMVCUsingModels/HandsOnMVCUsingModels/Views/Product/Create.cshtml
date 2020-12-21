@@ -1,0 +1,34 @@
+﻿@model HandsOnMVCUsingModels.Models.Product
+@{
+	ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<div class="container">
+	<form method="post">
+		<table class="table table-bordered">
+			<tr>
+				<td>ID</td>
+				<td><input type="number" name="Pid" /></td>
+			</tr>
+			<tr>
+				<td>Name</td>
+				<td><input type="text" name="Pname" /></td>
+			</tr>
+			<tr>
+				<td>Price</td>
+				<td><input type="number" name="Price" /></td>
+			</tr>
+			<tr>
+				<td>Stock</td>
+				<td><input type="number" name="Stock" /></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<input type="submit" class="btn-primary" value="Submit" />
+					<input type="reset" class="btn-info" value="Reset" />
+				</td>
+			</tr>
+		</table>
+	</form>
+</div>

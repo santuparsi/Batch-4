@@ -111,3 +111,7 @@ D:\OnlineBatch\Dotnet-Batch-4\MVC\HandsOnMVCCoreUsingControllerAndModelswithView
 D:\OnlineBatch\Dotnet-Batch-4\MVC\HandsOnMVCCoreUsingControllerAndModelswithViews\HandsOnMVCCoreUsingControllerAndModelswithViews\obj\Debug\netcoreapp3.1\Razor\Views\Sample\Index.cshtml.g.cs
 D:\OnlineBatch\Dotnet-Batch-4\MVC\HandsOnMVCCoreUsingControllerAndModelswithViews\HandsOnMVCCoreUsingControllerAndModelswithViews\obj\Debug\netcoreapp3.1\Razor\Views\Sample\Details.cshtml.g.cs
 D:\OnlineBatch\Dotnet-Batch-4\MVC\HandsOnMVCCoreUsingControllerAndModelswithViews\HandsOnMVCCoreUsingControllerAndModelswithViews\obj\Debug\netcoreapp3.1\Razor\Views\Sample\Greet.cshtml.g.cs
+D:\OnlineBatch\Dotnet-Batch-4\MVC\HandsOnMVCCoreUsingControllerAndModelswithViews\HandsOnMVCCoreUsingControllerAndModelswithViews\obj\Debug\netcoreapp3.1\Razor\Views\Student1\GetStudentName.cshtml.g.cs
+D:\OnlineBatch\Dotnet-Batch-4\MVC\HandsOnMVCCoreUsingControllerAndModelswithViews\HandsOnMVCCoreUsingControllerAndModelswithViews\obj\Debug\netcoreapp3.1\Razor\Views\Student1\GetStudent.cshtml.g.cs
+D:\OnlineBatch\Dotnet-Batch-4\MVC\HandsOnMVCCoreUsingControllerAndModelswithViews\HandsOnMVCCoreUsingControllerAndModelswithViews\obj\Debug\netcoreapp3.1\Razor\Views\Student1\GetAll.cshtml.g.cs
+D:\OnlineBatch\Dotnet-Batch-4\MVC\HandsOnMVCCoreUsingControllerAndModelswithViews\HandsOnMVCCoreUsingControllerAndModelswithViews\obj\Debug\netcoreapp3.1\Razor\Views\Student1\Sum.cshtml.g.cs

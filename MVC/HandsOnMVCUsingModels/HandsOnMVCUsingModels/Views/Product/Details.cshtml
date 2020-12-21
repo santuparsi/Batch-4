@@ -1,0 +1,21 @@
+﻿@model HandsOnMVCUsingModels.Models.Product 
+@{
+	ViewData["Title"] = "Details";
+}
+@{
+	if (Model != null)
+	{
+<h1 class="text-primary">@Model.Pname Details</h1>
+<pre>
+ID:@Model.Pid
+Name:@Model.Pname
+Price:@Model.Price
+Stock:@Model.Stock
+</pre>
+	}
+	else
+	{
+<h1 class="text-danger">@ViewBag.errMsg</h1>
+		}
+	}
+<a href="/Product/Index">Back</a>

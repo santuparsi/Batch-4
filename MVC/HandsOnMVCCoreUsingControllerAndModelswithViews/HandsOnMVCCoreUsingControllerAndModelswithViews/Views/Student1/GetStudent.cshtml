@@ -1,0 +1,18 @@
+﻿@using HandsOnMVCCoreUsingControllerAndModelswithViews.Models;
+@{
+    ViewData["Title"] = "GetStudent";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>GetStudent</h1>
+@{ 
+	//Student item = ViewData["item"] as Student;
+	Student item = ViewBag.Item;
+    <pre>
+ID:@item.Sid
+Name:@item.Sname
+Age:@item.Age
+Class:@item.Class
+</pre>
+}
+
