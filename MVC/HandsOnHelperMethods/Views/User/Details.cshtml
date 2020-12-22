@@ -1,0 +1,8 @@
+﻿@model HandsOnHelperMethods.Models.User;
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Welcome @Html.Display("Fname")  @Html.Display("Lname") </h1>
+@Html.ActionLink("LogOut","Login","Account")
+

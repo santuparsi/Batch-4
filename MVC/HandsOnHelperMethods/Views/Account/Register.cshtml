@@ -1,0 +1,65 @@
+﻿@model HandsOnHelperMethods.Models.User
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>Register User</h1>
+<div class="container">
+    @using(Html.BeginForm())
+	{
+	<table class="table table-bordered">
+		<tr>
+			<td>First Name</td>
+			<td>@Html.TextBox("Fname")</td>
+		</tr>
+		<tr>
+			<td>Last Name</td>
+			<td>@Html.TextBox("Lname")</td>
+		</tr>
+		<tr>
+			<td>Gender</td>
+			<td>
+				Male @Html.RadioButton("Gender",false)
+				FeMale @Html.RadioButton("Gender",false)
+
+			</td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td>@Html.TextBox("Email", "", new { type = "email" })</td>
+		</tr>
+		<tr>
+			<td>MobileNo</td>
+			<td>@Html.TextBox("Mobile")</td>
+		</tr>
+		<tr>
+			<td>Country</td>
+			<td>@Html.DropDownList("Country",new SelectList(new string[] { "India","US","UK","Japan"}))</td>
+		</tr>
+		<tr>
+			<td>DOB</td>
+			<td>@Html.TextBox("DOB",null,new { type="Date"})</td>
+		</tr>
+		<tr>
+			<td>Username</td>
+			<td>@Html.TextBox("Uname")</td>
+		</tr>
+		<tr>
+			<td>Password</td>
+			<td>@Html.Password("Pwd")</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				@Html.CheckBox("Accpet") Accpet All terms and Conditions.
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<input type="submit" value="Register" />
+				<input type="Reset" value="Reset" />
+			</td>
+		</tr>
+	</table>
+	}
+</div>
+

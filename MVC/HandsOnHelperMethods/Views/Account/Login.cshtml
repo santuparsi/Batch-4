@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1><div class="container">
+	@using (Html.BeginForm("Validate","Account","POST"))
+	{
+		<table class="table table-bordered">
+			
+			<tr>
+				<td>Username</td>
+				<td>@Html.TextBox("uname")</td>
+			</tr>
+			<tr>
+				<td>Password</td>
+				<td>@Html.Password("pwd")</td>
+			</tr>
+			
+			<tr>
+				<td colspan="2">
+					<input type="submit" value="SignIn" />
+					<input type="Reset" value="Reset" />
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					@Html.ActionLink("SignUp","Register","Account")
+				</td>
+			</tr>
+			@if (ViewBag.errMsg != null)
+			{
+			<tr>
+				<td colspan="2">
+					<span class="text-danger">@ViewBag.errMsg</span>
+				</td>
+			</tr>
+			}
+		</table>
+	}
+</div>
