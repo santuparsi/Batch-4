@@ -20,24 +20,36 @@ namespace HandsOnHelperMethods.Controllers
         [HttpPost]
         public IActionResult Register(User user)
         {
-            _repo.AddUser(user);
-            return RedirectToAction("Login");
+            if (ModelState.IsValid)
+            {
+                _repo.AddUser(user);
+                return RedirectToAction("Login");
+            }
+            else
+                return View();
         }
         public IActionResult Login()
         {
             return View();
         }
        
-        public IActionResult Validate(string uname,string pwd)
+        public IActionResult Validate(Login item)
         {
-            User user = _repo.Validate(uname, pwd);
-            if(user!=null)
+            if (ModelState.IsValid)
             {
-                return RedirectToAction("Details", "User", user);
+                User user = _repo.Validate(item);
+                if (user != null)
+                {
+                    return RedirectToAction("Details", "User", user);
+                }
+                else
+                {
+                    ViewBag.errMsg = "Invalid Credentials";
+                    return View("Login");
+                }
             }
             else
             {
-                ViewBag.errMsg = "Invalid Credentials";
                 return View("Login");
             }
         }

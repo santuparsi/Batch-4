@@ -1,4 +1,4 @@
-﻿
+﻿@model HandsOnHelperMethods.Models.Login 
 @{
     ViewData["Title"] = "Login";
 }
@@ -9,12 +9,17 @@
 		<table class="table table-bordered">
 			
 			<tr>
-				<td>Username</td>
-				<td>@Html.TextBox("uname")</td>
+				<td>Username *</td>
+				<td>@Html.TextBox("Uname")
+				@Html.ValidationMessage("Uname") 
+				</td>
+				
 			</tr>
 			<tr>
-				<td>Password</td>
-				<td>@Html.Password("pwd")</td>
+				<td>Password *</td>
+				<td>@Html.Password("Pwd")
+				@Html.ValidationMessage("Pwd")  
+				</td>
 			</tr>
 			
 			<tr>

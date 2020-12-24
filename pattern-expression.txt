@@ -1,0 +1,12 @@
+Regular Expression Pattern
+-------------------------
+\d- accept only no's
+\D-accpet non numeric char
+{n}-allow n values in a expression
+{m,n}=m is min and n is max and it allow chars in between m and n
+\D{6,8}
+[]-group chars
+[2468]{8}
+[0-9]
+[0-9a-z]
+[0-9a-zA-Z!@#$%^]

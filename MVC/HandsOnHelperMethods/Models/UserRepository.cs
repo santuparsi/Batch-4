@@ -20,9 +20,9 @@ namespace HandsOnHelperMethods.Models
         {
             return DataSource;
         }
-        public User Validate(string uname,string pwd)
+        public User Validate(Login login)
         {
-            return DataSource.SingleOrDefault(User => User.Uname == uname && User.Pwd == pwd);
+            return DataSource.SingleOrDefault(User => User.Uname == login.Uname && User.Pwd ==login.Pwd);
         }
     }
 }
