@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnModelBinding", "HandsOnModelBinding.csproj", "{5739DF16-D0A6-4660-969C-8DD3039A3C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5739DF16-D0A6-4660-969C-8DD3039A3C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5739DF16-D0A6-4660-969C-8DD3039A3C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5739DF16-D0A6-4660-969C-8DD3039A3C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5739DF16-D0A6-4660-969C-8DD3039A3C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B8C0639-68C8-4E20-85AD-6AE77A9011C3}
+	EndGlobalSection
+EndGlobal
