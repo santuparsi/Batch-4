@@ -8,7 +8,12 @@ namespace HandsOnMVCUsingModels.Controllers
 {
     public class ProductController : Controller
     {
-        ProductRepository _repo = new ProductRepository();
+        private IProductRepository _repo = null;
+        public ProductController(IProductRepository repository)
+        {
+            _repo = repository;
+        }
+
         //Get All the Product
         public IActionResult Index()
         {

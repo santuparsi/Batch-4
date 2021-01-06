@@ -1,0 +1,17 @@
+﻿@model HandsOnMVCUsingViewModel.Models.ViewModel.StudentAddressVM  
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Student Details</h1>
+<pre>
+ID:@Model.Student.Sid
+Name:@Model.Student.Sname
+Class:@Model.Student.Class
+City:@Model.StudentAddress.Town
+State:@Model.StudentAddress.State
+Street:@Model.StudentAddress.Street
+Email:@Model.Email
+Contact:@Model.Mobile              
+</pre>
+
