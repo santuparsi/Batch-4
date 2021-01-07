@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using HandsonEFUsingCodeFirst.Entities;
 namespace HandsonEFUsingCodeFirst.Repositories
 {
-    interface IProductRepository
+    public interface IProductRepository
     {
         List<Product> GetProducts();
         Product GetProduct(int id);

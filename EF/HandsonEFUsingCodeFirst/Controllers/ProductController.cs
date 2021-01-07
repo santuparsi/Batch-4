@@ -10,7 +10,11 @@ namespace HandsonEFUsingCodeFirst.Controllers
    
     public class ProductController : Controller
     {
-        ProductRepository repository = new ProductRepository();
+        IProductRepository repository = null;
+        public ProductController(IProductRepository _repository)
+        {
+            repository = _repository;
+        }
         [Route("Admin/GetAll")]
         public IActionResult Index()
         {

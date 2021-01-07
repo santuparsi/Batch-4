@@ -8,7 +8,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+using HandsonEFUsingCodeFirst.DBAccess;
+using Microsoft.EntityFrameworkCore;
+using HandsonEFUsingCodeFirst.Repositories;
 namespace HandsonEFUsingCodeFirst
 {
     public class Startup
@@ -24,6 +26,8 @@ namespace HandsonEFUsingCodeFirst
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<MyContext>(i => i.UseSqlServer(Configuration.GetConnectionString("TrainingDBConnection")));
+            services.AddTransient<IProductRepository, ProductRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

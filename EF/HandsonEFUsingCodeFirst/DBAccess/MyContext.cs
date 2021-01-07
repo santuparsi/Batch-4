@@ -8,6 +8,10 @@ namespace HandsonEFUsingCodeFirst.DBAccess
 {
     public class MyContext:DbContext
     {
+        public MyContext(DbContextOptions<MyContext> options):base(options)
+        {
+
+        }
         //Entity set
         public DbSet<Product> Products { get; set; }
         public DbSet<Dept> Depts { get; set; }
@@ -15,7 +19,7 @@ namespace HandsonEFUsingCodeFirst.DBAccess
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //configure connectionstring
-            optionsBuilder.UseSqlServer(@"Data Source=SANTU\MSSQLSERVER2019;Initial Catalog=SampleDB;User ID=sa;Password=pass@word1");
+            //optionsBuilder.UseSqlServer(@"Data Source=SANTU\MSSQLSERVER2019;Initial Catalog=SampleDB;User ID=sa;Password=pass@word1");
         }
     }
 }

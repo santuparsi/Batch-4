@@ -8,7 +8,12 @@ namespace HandsonEFUsingCodeFirst.Repositories
 {
     public class ProductRepository : IProductRepository
     {
-        MyContext db = new MyContext();
+        MyContext db = null;
+          public ProductRepository(MyContext context)
+        {
+            db = context;
+        }
+           
         public void AddProduct(Product item)
         {
             db.Products.Add(item);
