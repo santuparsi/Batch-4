@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HandsOnAPIUsingEF", "HandsOnAPIUsingEF\HandsOnAPIUsingEF.csproj", "{18C452B2-A0D2-42C2-B867-E72CD73B4D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnConsumeAPIUsingAjax", "HandsOnConsumeAPIUsingAjax\HandsOnConsumeAPIUsingAjax.csproj", "{8AE315FC-B2A1-4ABF-AA63-833CED12CEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C452B2-A0D2-42C2-B867-E72CD73B4D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C452B2-A0D2-42C2-B867-E72CD73B4D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C452B2-A0D2-42C2-B867-E72CD73B4D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C452B2-A0D2-42C2-B867-E72CD73B4D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE315FC-B2A1-4ABF-AA63-833CED12CEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE315FC-B2A1-4ABF-AA63-833CED12CEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE315FC-B2A1-4ABF-AA63-833CED12CEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE315FC-B2A1-4ABF-AA63-833CED12CEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D59F155-21A7-4C7D-833D-1DE92B64A0B4}
+	EndGlobalSection
+EndGlobal

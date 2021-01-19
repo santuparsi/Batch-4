@@ -1,0 +1,9 @@
+Service:
+-------
+A service is a unit of code that can be expose to different client over network in a language and platform independent way.
+
+Service frameworks in .Net
+------------------------
+Webservices
+WCF
+WEP API

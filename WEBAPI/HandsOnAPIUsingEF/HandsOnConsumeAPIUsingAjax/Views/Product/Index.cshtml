@@ -1,0 +1,76 @@
+﻿
+@{
+	ViewData["Title"] = "Index";
+}
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+	$(document).ready(function () {
+		$.ajax({
+			type: "GET",
+			url: "http://localhost:55262/api/Product/GetAll",
+			contentType: 'application/json',
+			success: function (data) {
+				$.each(data, function (i, item) {
+					let row = '<tr><td>' + item.pid + '</td><td>' + item.pname + '</td><td>' +
+						item.stock + '</td><td>' + item.price + '</td></tr>';
+					$("#t2").append(row)
+				})
+			},
+			error: function (xhr) {
+				console.log(xhr)
+			}
+		})
+		$("#search").click(function () {
+			let pid = $("#Pid").val()
+			$.ajax({
+				type: "GET",
+				url: "http://localhost:55262/api/Product/Get/"+pid,
+				contentType: 'application/json',
+				success: function (item) {
+					$("#Pname").val(item.pname)
+					$("#Price").val(item.price)
+					$("#Stock").val(item.stock)
+				},
+				error: function (xhr) {
+					console.log(xhr)
+				}
+			})
+		})
+	})
+</script>
+<div class="container">
+	<table id="t1" class="table table-bordered">
+		<tr>
+			<td>ID</td>
+			<td>@Html.TextBox("Pid")</td>
+		</tr>
+		<tr>
+			<td>Name</td>
+			<td>@Html.TextBox("Pname")</td>
+		</tr>
+		<tr>
+			<td>Price</td>
+			<td>@Html.TextBox("Price")</td>
+		</tr>
+		<tr>
+			<td>Stock</td>
+			<td>@Html.TextBox("Stock")</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<button id="add" class="btn btn-primary">Add</button>
+				<button id="search" class="btn btn-primary">Search</button>
+				<button id="update" class="btn btn-primary">Update</button>
+				<button id="delete" class="btn btn-primary">Delete</button>
+			</td>
+		</tr>
+	</table>
+</div>
+<div class="container">
+	<table id="t2" class="table table-bordered">
+		<tr>
+			<th>ID</th><th>Name</th><th>Price</th><th>Stock</th>
+		</tr>
+	</table>
+</div>
+

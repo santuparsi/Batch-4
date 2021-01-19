@@ -1,0 +1,106 @@
+﻿
+@{
+	ViewData["Title"] = "Index";
+}
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+	$(document).ready(function () {
+		//alert('Hello World!!')
+		$.ajax({
+			type: "GET",
+			url: "/Product/GetAll",
+			dataType: "json",
+			contentType: "application/json",
+			success: function (data) {
+				$.each(data, function (i, item) {
+					let r = '<tr><td>' + item.pid + '</td><td>' + item.pname + '</td><td>' + item.price + '</td><td>'
+						+ item.stock + "</td></tr>";
+					$('#list').append(r)
+				})
+			},
+			error: function (xhr) {
+				console.log(xhr.responseText)
+			}
+		})
+		$('#btnsrch').click(function () {
+			let pid = $('#Pid').val()
+			$.ajax({
+				type: "GET",
+				url: "/Product/Get/" + pid,
+				dataType: "json",
+				contentType: "application/json",
+				success: function (item) {
+					$("#Pname").val(item.pname)
+					$("#Price").val(item.price)
+					$("#Stock").val(item.stock)
+				},
+				error: function (xhr) {
+					console.log(xhr.responseText)
+				}
+			})
+		})
+		$('#btnadd').click(function () {
+			let pid = $('#Pid').val()
+			let pname = $('#Pname').val()
+			let price = $('#Price').val()
+			let stock = $('#Stock').val()
+			let obj = { "pid": pid, "pname": pname, "prcie": price, "stock": stock }
+			alert(JSON.stringify(obj))
+			//alert(pname)
+			$.ajax({
+				type: "GET",
+				url: "/Product/Create",
+				data: JSON.stringify(obj),
+				dataType: "json",
+				contentType: "application/json",
+				success: function () {
+				$("#s1").text('Record Added')
+				},
+				error: function (xhr) {
+					console.log(xhr.responseText)
+				}
+			})
+		})
+		
+	})
+</script>
+
+<h1>Index</h1>
+<div class="container">
+	<table class="table table-bordered">
+		<tr>
+			<td>ID</td>
+			<td><input type="text" id="Pid" /></td>
+		</tr>
+		<tr>
+			<td>Name</td>
+			<td><input type="text" id="Pname" /></td>
+		</tr>
+		<tr>
+			<td>Price</td>
+			<td><input type="text" id="Price" /></td>
+		</tr>
+		<tr>
+			<td>Stock</td>
+			<td><input type="text" id="Stock" /></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<button id="btnadd" class="btn btn-primary">Add</button>
+				<button id="btnsrch" class="btn btn-primary">Search</button>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<span id="s1" class="text-info"></span>
+			</td>
+		</tr>
+	</table>
+</div>
+<div class="container">
+	<table class="table table-bordered" id="list">
+		<tr>
+			<th>ID</th><th>Name</th><th>Price</th><th>Stock</th>
+		</tr>
+	</table>
+</div>
