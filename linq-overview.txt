@@ -1,0 +1,33 @@
+LINQ(Language Integrated Query)
+----
+Linq is a unified query programming model to query data from difference data sources
+source of data
+Table(sql queries)
+XML(xml expressions)
+Excel(Ado.net)
+Collections and arrays(iterators)
+
+Linq with Objects
+Linq with Tables
+Linq to Entities(Entity framework)
+Linq to XML
+
+Linq is a language feature(C# and Vb.net)
+Linq is added with c# 3.5
+system.linq
+
+Linq with Objects
+-----------------
+we can write linq expression objects witch are implement with IEnumarable interface
+ex: all collections and arrays
+
+Linq Query Methods(Apply on objects which are implemented with IEnumarable<T>)
+----------------
+Select()
+Where()
+OrderbyAssending()
+OrderbyDescending()
+Single()
+SIngleOrDefault()
+First()
+FirstorDefault()
